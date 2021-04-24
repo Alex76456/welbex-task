@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/talksolver/static/css/main.989acccc.chunk.css",
-    "main.js": "/talksolver/static/js/main.139d4055.chunk.js",
-    "main.js.map": "/talksolver/static/js/main.139d4055.chunk.js.map",
-    "runtime-main.js": "/talksolver/static/js/runtime-main.37f75f40.js",
-    "runtime-main.js.map": "/talksolver/static/js/runtime-main.37f75f40.js.map",
-    "static/js/2.db0b2375.chunk.js": "/talksolver/static/js/2.db0b2375.chunk.js",
-    "static/js/2.db0b2375.chunk.js.map": "/talksolver/static/js/2.db0b2375.chunk.js.map",
-    "static/js/3.bd0b447d.chunk.js": "/talksolver/static/js/3.bd0b447d.chunk.js",
-    "static/js/3.bd0b447d.chunk.js.map": "/talksolver/static/js/3.bd0b447d.chunk.js.map",
-    "index.html": "/talksolver/index.html",
-    "static/css/main.989acccc.chunk.css.map": "/talksolver/static/css/main.989acccc.chunk.css.map",
-    "static/js/2.db0b2375.chunk.js.LICENSE.txt": "/talksolver/static/js/2.db0b2375.chunk.js.LICENSE.txt"
+    "main.css": "/welbex-task/static/css/main.989acccc.chunk.css",
+    "main.js": "/welbex-task/static/js/main.139d4055.chunk.js",
+    "main.js.map": "/welbex-task/static/js/main.139d4055.chunk.js.map",
+    "runtime-main.js": "/welbex-task/static/js/runtime-main.e012888e.js",
+    "runtime-main.js.map": "/welbex-task/static/js/runtime-main.e012888e.js.map",
+    "static/js/2.db0b2375.chunk.js": "/welbex-task/static/js/2.db0b2375.chunk.js",
+    "static/js/2.db0b2375.chunk.js.map": "/welbex-task/static/js/2.db0b2375.chunk.js.map",
+    "static/js/3.bd0b447d.chunk.js": "/welbex-task/static/js/3.bd0b447d.chunk.js",
+    "static/js/3.bd0b447d.chunk.js.map": "/welbex-task/static/js/3.bd0b447d.chunk.js.map",
+    "index.html": "/welbex-task/index.html",
+    "static/css/main.989acccc.chunk.css.map": "/welbex-task/static/css/main.989acccc.chunk.css.map",
+    "static/js/2.db0b2375.chunk.js.LICENSE.txt": "/welbex-task/static/js/2.db0b2375.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.37f75f40.js",
+    "static/js/runtime-main.e012888e.js",
     "static/js/2.db0b2375.chunk.js",
     "static/css/main.989acccc.chunk.css",
     "static/js/main.139d4055.chunk.js"
